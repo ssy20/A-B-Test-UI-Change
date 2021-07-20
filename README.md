@@ -1,4 +1,4 @@
-# A-B-Test-UI-Change-
+# A-B-Test-UI-Change
 
 ## Project Description 
 An e-commerce site want to test whether implementing standardized Spanish translation versus localized translation has any effect on the conversion rate. They run an A/B test where each Spanish-speaking country would have its own translation written by a local. 
